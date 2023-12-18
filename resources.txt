@@ -1,0 +1,12 @@
+folders: backend
+movies (frontend)
+
+installation:
+npm i cors
+npm i nodemon
+npm i express
+npm i react-router-dom
+npm i mongodb
+
+database username : kakshita684
+password: dev1234

@@ -27,7 +27,7 @@ app.use("/booking", bookingRouter);
 
 
 
-mongoose.connect(mongodb+srv://kakshita684:<dev1234>@cluster0.ifjtx2v.mongodb.net/
+mongoose.connect(mongodb+srv,//kakshita684:<dev1234>@cluster0.ifjtx2v.mongodb.net/
 ).then(() => app.listen(2500, () =>
     console.log("Connected to the server + port")
 )

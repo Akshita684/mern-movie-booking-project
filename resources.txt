@@ -1,12 +1,17 @@
-folders: backend
+folders: backend 
 movies (frontend)
 
-installation:
+
+BACKEND - installation:
 npm i cors
-npm i nodemon
 npm i express
+npm install nodemon
 npm i react-router-dom
 npm i mongodb
+npm i jsonwebtoken
+npm i bcrypt
 
-database username : kakshita684
-password: dev1234
+database username: devnov,
+password: Abc123
+
+
